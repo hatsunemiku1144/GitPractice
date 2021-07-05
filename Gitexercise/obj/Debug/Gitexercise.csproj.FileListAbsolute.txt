@@ -1,0 +1,7 @@
+C:\Users\SPP\Documents\BuildSchoolLabs\Gitexercise\Gitexercise\bin\Debug\Gitexercise.exe.config
+C:\Users\SPP\Documents\BuildSchoolLabs\Gitexercise\Gitexercise\bin\Debug\Gitexercise.exe
+C:\Users\SPP\Documents\BuildSchoolLabs\Gitexercise\Gitexercise\bin\Debug\Gitexercise.pdb
+C:\Users\SPP\Documents\BuildSchoolLabs\Gitexercise\Gitexercise\obj\Debug\Gitexercise.csprojAssemblyReference.cache
+C:\Users\SPP\Documents\BuildSchoolLabs\Gitexercise\Gitexercise\obj\Debug\Gitexercise.csproj.CoreCompileInputs.cache
+C:\Users\SPP\Documents\BuildSchoolLabs\Gitexercise\Gitexercise\obj\Debug\Gitexercise.exe
+C:\Users\SPP\Documents\BuildSchoolLabs\Gitexercise\Gitexercise\obj\Debug\Gitexercise.pdb
