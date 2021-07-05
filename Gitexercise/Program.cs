@@ -11,6 +11,7 @@ namespace Gitexercise
         static void Main(string[] args)
         {
             Console.WriteLine("this is a git practice");
+            Console.WriteLine("new feature...");
             Console.ReadLine();
         }
     }
